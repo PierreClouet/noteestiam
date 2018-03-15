@@ -13,7 +13,7 @@ class NoteEstiam extends Module
         $this->name = 'noteestiam';
         $this->tab = 'Notation';
         $this->version = '1.0.0';
-        $this->author = 'ESTIAM';
+        $this->author = 'Pierre';
         $this->need_instance = 0;
         $this->ps_versions_compliancy = array(
             'min' => '1.5',
@@ -52,7 +52,7 @@ class NoteEstiam extends Module
             return false;
         }
 
-        if (!Configuration::updateValue('NOTEESTIAM_NAME', 'Estiam')) {
+        if (!Configuration::updateValue('NOTEESTIAM_NAME', 'Notation')) {
             return false;
         }
 

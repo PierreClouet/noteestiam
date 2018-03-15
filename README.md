@@ -15,6 +15,8 @@
 
 1. Editez le fichier **prestashop/themes/non_du_theme/templates/catalog/product.tpl** en y ajoutant **{hook h='displayNotation'}** où vous souhaitez afficher le système de notation. Attention à ne pas le placer à l'intérieur d'un ```<form></form>```.
 
+Ne pas oublier de vider le cache prestashop pour voir les modifications.
+
 ## Utilisation
 
 ### Côté front
