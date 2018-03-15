@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>noteestiam</name>
+    <displayName><![CDATA[Notation]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Notation de produits]]></description>
+    <author><![CDATA[ESTIAM]]></author>
+    <tab><![CDATA[Notation]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
